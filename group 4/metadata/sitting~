@@ -1,0 +1,8 @@
+Activity= sitting
+Group= 4
+Duration= 60s
+Sampling Frequency= 100Hz
+Accelerometer FullScale= 8g
+Gyroscope Fullscale= 2000dps
+Position of the sensor= Upper arm light on top
+Acquisition Software= Sensor docking station
